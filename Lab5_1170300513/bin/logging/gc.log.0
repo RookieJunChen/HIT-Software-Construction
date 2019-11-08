@@ -1,0 +1,16 @@
+[0.026s][info][gc] Using Concurrent Mark Sweep
+[26.844s][info][gc] GC(0) Pause Young (Allocation Failure) 34M->3M(123M) 9.605ms
+[27.126s][info][gc] GC(1) Pause Young (Allocation Failure) 37M->6M(123M) 23.566ms
+[27.464s][info][gc] GC(2) Pause Young (Allocation Failure) 40M->4M(123M) 1.978ms
+[27.900s][info][gc] GC(3) Pause Young (Allocation Failure) 38M->3M(123M) 0.651ms
+[28.389s][info][gc] GC(4) Pause Young (Allocation Failure) 37M->3M(123M) 0.663ms
+[28.733s][info][gc] GC(5) Pause Young (Allocation Failure) 37M->3M(123M) 0.691ms
+[28.947s][info][gc] GC(6) Pause Young (Allocation Failure) 37M->3M(123M) 0.679ms
+[29.081s][info][gc] GC(7) Pause Young (Allocation Failure) 37M->3M(123M) 0.364ms
+[29.201s][info][gc] GC(8) Pause Young (Allocation Failure) 37M->3M(123M) 0.419ms
+[29.330s][info][gc] GC(9) Pause Young (Allocation Failure) 37M->3M(123M) 0.800ms
+[29.515s][info][gc] GC(10) Pause Young (Allocation Failure) 37M->3M(123M) 0.463ms
+[29.691s][info][gc] GC(11) Pause Young (Allocation Failure) 37M->3M(123M) 0.350ms
+[29.860s][info][gc] GC(12) Pause Young (Allocation Failure) 37M->3M(123M) 0.349ms
+[30.007s][info][gc] GC(13) Pause Young (Allocation Failure) 37M->3M(123M) 0.359ms
+[30.189s][info][gc] GC(14) Pause Young (Allocation Failure) 37M->3M(123M) 0.409ms

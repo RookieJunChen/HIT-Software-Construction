@@ -1,0 +1,102 @@
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addorbit
+信息: Successful addition with <Track : 1>
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addorbit
+信息: Successful addition with <Track : 2>
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addorbit
+信息: Successful addition with <Track : 3>
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addorbit
+信息: Successful addition with <Track : 4>
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addorbit
+信息: Successful addition with <Track : 5>
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addtoorbit
+信息: Successful addition for <Electronics>.
+5月 27, 2019 10:41:03 下午 circularorbit.ConcreteCircularOrbit addcenterobject
+信息: Successful addition with <Rb>
+5月 27, 2019 10:41:03 下午 applications.AtomStructureapp main
+信息: Successful reading of AtomicStructure.txt
+5月 27, 2019 10:42:45 下午 circularorbit.ConcreteCircularOrbit deleteorbitobj
+信息: Delete <Electronics>'s operation succeeded.
+5月 27, 2019 10:42:45 下午 circularorbit.ConcreteCircularOrbit deleteorbitobj
+信息: Delete <Electronics>'s operation succeeded.
+5月 27, 2019 10:42:45 下午 circularorbit.ConcreteCircularOrbit deleteorbitobj
+信息: Delete <Electronics>'s operation succeeded.
+5月 27, 2019 10:42:45 下午 circularorbit.ConcreteCircularOrbit deleteorbitobj
+信息: Delete <Electronics>'s operation succeeded.
+5月 27, 2019 10:42:45 下午 circularorbit.ConcreteCircularOrbit removeorbit
+信息: Successful track deletion.
+5月 27, 2019 10:44:23 下午 circularorbit.ConcreteCircularOrbit deleteorbitobj
+信息: Delete <Electronics>'s operation succeeded.
+5月 27, 2019 10:46:58 下午 circularorbit.ConcreteCircularOrbit deleteorbitobj
+信息: Delete <Electronics>'s operation succeeded.
